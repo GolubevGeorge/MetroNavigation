@@ -1,0 +1,16 @@
+c:\users\emris\documents\visual studio 2017\Projects\MetroNavigation\MetroNavigation\bin\Debug\MetroNavigation.exe.config
+c:\users\emris\documents\visual studio 2017\Projects\MetroNavigation\MetroNavigation\bin\Debug\MetroNavigation.exe
+c:\users\emris\documents\visual studio 2017\Projects\MetroNavigation\MetroNavigation\bin\Debug\MetroNavigation.pdb
+c:\users\emris\documents\visual studio 2017\Projects\MetroNavigation\MetroNavigation\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+c:\users\emris\documents\visual studio 2017\Projects\MetroNavigation\MetroNavigation\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+c:\users\emris\documents\visual studio 2017\Projects\MetroNavigation\MetroNavigation\obj\Debug\MetroNavigation.csprojResolveAssemblyReference.cache
+c:\users\emris\documents\visual studio 2017\Projects\MetroNavigation\MetroNavigation\obj\Debug\MainWindow.g.cs
+c:\users\emris\documents\visual studio 2017\Projects\MetroNavigation\MetroNavigation\obj\Debug\App.g.cs
+c:\users\emris\documents\visual studio 2017\Projects\MetroNavigation\MetroNavigation\obj\Debug\MetroNavigation_MarkupCompile.cache
+c:\users\emris\documents\visual studio 2017\Projects\MetroNavigation\MetroNavigation\obj\Debug\MetroNavigation_MarkupCompile.lref
+c:\users\emris\documents\visual studio 2017\Projects\MetroNavigation\MetroNavigation\obj\Debug\MainWindow.baml
+c:\users\emris\documents\visual studio 2017\Projects\MetroNavigation\MetroNavigation\obj\Debug\MetroNavigation.g.resources
+c:\users\emris\documents\visual studio 2017\Projects\MetroNavigation\MetroNavigation\obj\Debug\MetroNavigation.Properties.Resources.resources
+c:\users\emris\documents\visual studio 2017\Projects\MetroNavigation\MetroNavigation\obj\Debug\MetroNavigation.csproj.GenerateResource.Cache
+c:\users\emris\documents\visual studio 2017\Projects\MetroNavigation\MetroNavigation\obj\Debug\MetroNavigation.exe
+c:\users\emris\documents\visual studio 2017\Projects\MetroNavigation\MetroNavigation\obj\Debug\MetroNavigation.pdb
