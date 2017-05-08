@@ -6,8 +6,10 @@
         xmlns:m="clr-namespace:Microsoft.Maps.MapControl.WPF;assembly=Microsoft.Maps.MapControl.WPF"
         xmlns:local="clr-namespace:MetroNavigation"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="MetroNavigation" Height="550" Width="725">
     <Grid>
-        <m:Map/>
+        <m:Map x:Name="MainMap" CredentialsProvider ="AiJidoon9rjydhRdDBRKJwD5342In7XFuHGPghjWiiyzFnJi5PxqV5LXXS2KYrAc" 
+               ScaleVisibility="Visible" Mode="Road" Center="50.45, 30.523333" ZoomLevel="12">
+        </m:Map>
     </Grid>
 </Window>
